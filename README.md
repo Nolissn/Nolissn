@@ -6,8 +6,6 @@
 
 ---
 
-## 🕹️ Contribution Animation
-
 ### 🟡 PAC-MEN
 
 <p align="center">
