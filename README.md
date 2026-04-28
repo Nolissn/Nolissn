@@ -8,7 +8,7 @@
 
 ## 🕹️ Contribution Animation
 
-### 🟡 Pac-Man Contribution Graph
+### 🟡 PAC-MEN
 
 <p align="center">
   <picture>
