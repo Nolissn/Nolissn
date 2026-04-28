@@ -6,7 +6,7 @@
 
 ---
 
-### 🟡 PAC-MEN
+### 🟡 PAC-MAN
 
 <p align="center">
   <picture>
